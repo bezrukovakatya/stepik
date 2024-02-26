@@ -1,2 +1,2 @@
 # stepik
-studing
+this is my styding repository
